@@ -1,5 +1,6 @@
 #include <iostream>
 #include <conio.h>
+
 using namespace std;
 
 int main()
@@ -14,9 +15,8 @@ int main()
 	Tprodi=prodi;
 	string grd;
 	
-	cout<<"============================================================"<<endl;
-	cout<<"|                Progam Nilai Mata Kuliah                  |"<<endl;
-	cout<<"============================================================"<<endl;
+	cout<<"                Progam Nilai Mata Kuliah                  "<<endl;
+	cout<<"----------------------------------------------------------"<<endl;
 	cout<<"\n";
 	
 	cout<<"| Masukkan Nama                    : "; cin.getline (Tnama,30);
